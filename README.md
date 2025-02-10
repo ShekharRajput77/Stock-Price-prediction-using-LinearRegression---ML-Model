@@ -1,5 +1,3 @@
-Hi Guys, 
-
 This is a simple ML model which predicts the stock Prices using ML LinearRegression Algorithm. 
 It shows the Plot of Actual Price vs Predicted Price and Scatte Plot for the same.
 
